@@ -1,5 +1,3 @@
-Rakshasv18/README.md
-
 # Raksha
 
 Hi there 👋 Welcome to my github profile 👩🏻‍💻
