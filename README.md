@@ -11,10 +11,9 @@
   ### About Me
 
 - Research Assistant at the University of Michigan, working in generative AI, speech and language technology, deep learning, and cybersecurity
-- Strong background in data science, machine learning, and holds certifications from Analytics Vidhya, Coursera, ​IBM, and Google
-- Led the development of a deep learning-based product for image analysis at Ericsson
-- Gained experience as a Machine Learning Intern at a startup in Gen AI
-- Proficient in Kannada, English, and Hindi languages
+- Strong background in data science, machine learning, and holds certifications from  Coursera, ​IBM,  Google and Analytics Vidhya.
+- Gained experience as a Machine Learning Intern at a startup in Gen AI for Text Summerization.
+- Proficient in Kannada, English, and Hindi languages 
 - Passionate about advancing artificial intelligence and contributing to society
 
 
