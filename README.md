@@ -8,7 +8,9 @@
 - 👀 Open for discussion on : Deep Fake Generation / LLM / Speech / NLP / CV 
 - 📧 How to reach me: rakshav@umich.edu
 
-- Research Assistant at the University of Michigan, specializing in generative AI, speech and language technology, deep learning, and cybersecurity
+  ### About Me
+
+- Research Assistant at the University of Michigan, working in generative AI, speech and language technology, deep learning, and cybersecurity
 - Strong background in data science, machine learning, and holds certifications from Analytics Vidhya, Coursera, ​IBM, and Google
 - Led the development of a deep learning-based product for image analysis at Ericsson
 - Gained experience as a Machine Learning Intern at a startup in Gen AI
