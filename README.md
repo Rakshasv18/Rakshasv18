@@ -5,7 +5,8 @@
 - 💪🏻 I’m currently working on getting a job as a Machine Learning / Deep Learning / Data Scientist roles ( FTE , Internships )
 - 🕵️‍♀️ I'm currently working as Research assitant at University of Michigan, Dearborn.
 - 🤔 I’m looking for help in landing an interview to cracking the interview process in ML 
-- 👀 Open for discussion on : Deep Fake Generation / LLM / Speech / NLP / CV 
+- 👀 Open for discussion on : Deep Fake Generation / LLM / Speech / NLP / CV
+- ✍🏻 Open Source Contribution : https://github.com/coqui-ai/TTS/issues/3541
 - 📧 How to reach me: rakshav@umich.edu
 
   ### 👩🏻‍🎓 About Me
