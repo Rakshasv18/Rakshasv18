@@ -24,27 +24,3 @@
 - Is Audio Spoof Detection Robust to Laundering Attacks? (https://dl.acm.org/doi/abs/10.1145/3658664.3659656)
 
 
-### Technical Skills:
-
-- Programming Languages: Python, SQL
-- Database Management Systems: MySQL
-- Data Visualization: Tableau 
-- Model Training : Distributed Training.
-- Version Control: Git, GitHub
-- Framework : Tensorflow , Pytorch
-- Cloud Platforms: Amazon Web Services (AWS), Google Cloud Platform (GCP)
-- Data Lake: Amazon s3, Google Cloud Storage
-
-Soft Skills:
-- Effective critical thinking and logical reasoning abilities
-- Outstanding written and spoken interaction abilities
-- Skill in teamwork and cooperative working in a group setting
-- Thorough with meticulous attention to precision and data quality
-- Proficiency in leading and managing teams
-- Ethical data management
-- Flexibility and openness to change
-- Effective time organization and scheduling
-- Ongoing education and skill enhancement
-
-
-
