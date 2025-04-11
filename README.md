@@ -2,13 +2,12 @@
 
 ### Hi there 👋 Welcome to my github profile 👩🏻‍💻
 
-Currently working as Applied Scientist Intern, Flawless AI 
+
 
 - 💪🏻 I’m also looking for full time roles in Machine Learning / Deep Learning / Speech AI roles ( FTE , Internships )
+- 🎬 Applied Scientist Intern at Flawless AI - Contributed to the development of generative AI tools for filmmaking, focusing on speech processing and audio-driven facial animation.
 - 🕵️‍♀️ I worked with professor Dr. Hafiz Malik as Research assitant at University of Michigan, Dearborn.
-- 🤔 I’m looking for help in landing an interview to cracking the interview process in ML 
 - 👀 Open for discussion on : Deep Fake Generation / LLM / Speech / NLP / CV
-- ✍🏻 Open Source Contribution : https://github.com/coqui-ai/TTS/issues/3541
 - 📧 How to reach me: rakshav@umich.edu
 
   ### 👩🏻‍🎓 About Me
@@ -28,10 +27,6 @@ Currently working as Applied Scientist Intern, Flawless AI
 - Model Training : Distributed Training.
 - Version Control: Git, GitHub
 - Framework : Tensorflow , Pytorch
-- Math : Linear Algebra (Online Instructor: Gilbert Stang)
-- Stat : Introduction to Probability and axioms (Online Instructor: John Tsitsiklis)
-
-In progress :
 - Cloud Platforms: Amazon Web Services (AWS), Google Cloud Platform (GCP)
 - Data Lake: Amazon s3, Google Cloud Storage
 
