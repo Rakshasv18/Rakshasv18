@@ -1,20 +1,18 @@
 ### Hi there 👋 Welcome to my github profile 👩🏻‍💻
 
-- 💪🏻 I’m looking for full time roles in Machine Learning / Deep Learning / Speech AI roles ( FTE , Internships )
-- 🎬 Previously Applied Scientist Intern at Flawless AI - Contributed to the development of generative AI tools for filmmaking, focusing on speech processing and audio-driven facial animation.
-- 🕵️‍♀️ I worked with professor Dr. Hafiz Malik as Research assitant at University of Michigan, Dearborn.
-- 👀 Open for discussion on : Deep Fake Generation / LLM / Speech / NLP / CV
-- 📧 How to reach me: rakshav@umich.edu
-
 ### 👩🏻‍🎓 About Me
   
-👋 Hi, I'm Raksha
+👋 Hi, I'm Raksha Varahamurthy
 
 🎓 Applied Scientist Intern at Flawless AI, focusing on generative AI for film and speech applications.
 
 🧪 Former Research Assistant at the University of Michigan, specializing in deep learning, speech processing, and cybersecurity.
 
 💻 Passionate about advancing artificial intelligence and contributing to society.
+
+👀 Open for discussion on : Deep Fake Generation / LLM / Speech / NLP / CV.
+
+ 📧 How to reach me: rakshav@umich.edu
 
 🌐 Fluent in Kannada, English, and Hindi.
 
